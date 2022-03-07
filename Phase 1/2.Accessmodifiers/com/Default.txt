@@ -1,0 +1,10 @@
+package com;
+
+
+class Default
+{
+	void display()
+	{
+		System.out.println("Hello World!");
+	}
+}
